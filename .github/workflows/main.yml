@@ -16,7 +16,7 @@ jobs:
         uses: docker://pandoc/latex:latest
         with:
           args: >
-            manifeste OpenGovernance.md
+            manifeste_OpenGovernance.md
             --pdf-engine=xelatex
             --toc
             -V geometry:margin=2.5cm
