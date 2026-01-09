@@ -1,0 +1,131 @@
+% OpenGovernance – Pandoc LaTeX template (XeLaTeX)
+% Place this file at: styles/template.tex
+% Use with: pandoc GOVERNANCE.md --pdf-engine=xelatex --template=styles/template.tex --toc -o OpenGovernance.pdf
+
+\documentclass[11pt,a4paper]{article}
+
+% ---------- Fonts & language (French) ----------
+\usepackage{fontspec}
+\usepackage{polyglossia}
+\setdefaultlanguage{french}
+
+% A TeX Live–available serif font (safe in CI containers)
+\setmainfont{TeX Gyre Pagella}
+\setsansfont{TeX Gyre Heros}
+\setmonofont{DejaVu Sans Mono}
+
+% ---------- Layout ----------
+\usepackage{geometry}
+\geometry{margin=2.5cm}
+
+\usepackage{setspace}
+\setstretch{1.12}
+
+\usepackage{parskip}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.55em}
+
+% ---------- Headings ----------
+\usepackage{titlesec}
+\titleformat{\section}
+  {\normalfont\LARGE\bfseries}{\thesection}{0.8em}{}
+\titleformat{\subsection}
+  {\normalfont\Large\bfseries}{\thesubsection}{0.8em}{}
+\titleformat{\subsubsection}
+  {\normalfont\large\bfseries}{\thesubsubsection}{0.8em}{}
+
+\titlespacing*{\section}{0pt}{1.25em}{0.6em}
+\titlespacing*{\subsection}{0pt}{1.0em}{0.4em}
+\titlespacing*{\subsubsection}{0pt}{0.8em}{0.3em}
+
+% ---------- Links ----------
+\usepackage{hyperref}
+\usepackage{xurl}
+\hypersetup{
+  colorlinks=true,
+  linkcolor=black,
+  urlcolor=blue,
+  citecolor=black,
+  pdftitle={$if(title)$$title$$endif$},
+  pdfauthor={$if(author)$$author$$endif$}
+}
+
+% ---------- Lists, tables, images ----------
+\usepackage{graphicx}
+\usepackage{longtable,booktabs,array}
+\usepackage{caption}
+\captionsetup{font=small,labelfont=bf}
+
+% ---------- Better quotes ----------
+\usepackage{csquotes}
+
+% ---------- Page headers/footers ----------
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\renewcommand{\headrulewidth}{0pt}
+
+% Left footer: project name (or title if provided)
+\lfoot{\footnotesize $if(shorttitle)$$shorttitle$$else$$if(title)$$title$$else$OpenGovernance$endif$$endif$}
+
+% Center footer: version if provided (e.g. -V version=v1.0.0)
+\cfoot{\footnotesize $if(version)$Version $version$$endif$}
+
+% Right footer: page number
+\rfoot{\footnotesize \thepage}
+
+% ---------- Code blocks ----------
+\usepackage{fvextra}
+\DefineVerbatimEnvironment{Highlighting}{Verbatim}{breaklines,commandchars=\\\{\}}
+
+% ---------- Tighten ToC look ----------
+\usepackage{tocloft}
+\setlength{\cftbeforesecskip}{2pt}
+
+% ---------- Pandoc defaults ----------
+$if(highlighting-macros)$
+$highlighting-macros$
+$endif$
+
+$if(header-includes)$
+$header-includes$
+$endif$
+
+\begin{document}
+
+% ===== Optional title page (only if metadata is provided) =====
+$if(title)$
+\thispagestyle{empty}
+\vspace*{2.5cm}
+\begin{center}
+{\LARGE\bfseries $title$ \par}
+$if(subtitle)$
+\vspace{0.8cm}
+{\Large $subtitle$ \par}
+$endif$
+\vspace{1.4cm}
+$if(author)$
+{\large $author$ \par}
+\vspace{0.4cm}
+$endif$
+$if(date)$
+{\large $date$ \par}
+$endif$
+$if(version)$
+\vspace{0.8cm}
+{\large \textbf{Version $version$} \par}
+$endif$
+\end{center}
+\vfill
+\newpage
+$endif$
+
+% ===== Table of contents (Pandoc --toc) =====
+$if(toc)$
+\tableofcontents
+\newpage
+$endif$
+
+$body$
+
+\end{document}
