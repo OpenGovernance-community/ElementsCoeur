@@ -16,7 +16,7 @@ jobs:
         uses: docker://pandoc/latex:latest
         with:
           args: >
-            manifeste_OpenGovernance.md
+            Manifeste_OpenGovernance.md
             --pdf-engine=xelatex
             --toc
             -V geometry:margin=2.5cm
@@ -25,5 +25,5 @@ jobs:
       - name: Upload PDF artifact
         uses: actions/upload-artifact@v4
         with:
-          name: ManifesteOpenGovernance-pdf
-          path: ManifesteOpenGovernance.pdf
+          name: Manifeste_OpenGovernance-pdf
+          path: Manifeste_OpenGovernance.pdf
