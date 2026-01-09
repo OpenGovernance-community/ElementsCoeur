@@ -9,9 +9,9 @@
 \usepackage[french]{babel}
 
 % A TeX Live–available serif font (safe in CI containers)
-\setmainfont{TeX Gyre Pagella}
-\setsansfont{TeX Gyre Heros}
-\setmonofont{DejaVu Sans Mono}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{lmodern} % Latin Modern (toujours dispo)
 
 % ---------- Layout ----------
 \usepackage{geometry}
