@@ -18,6 +18,7 @@ jobs:
           args: >
             Manifeste_OpenGovernance.md
             --pdf-engine=xelatex
+            --template=styles/template.tex
             --toc
             -V geometry:margin=2.5cm
             -o Manifeste_OpenGovernance.pdf
