@@ -28,7 +28,7 @@ Ces ressources peuvent être utilisées indépendamment, mais prennent tout leur
 
 ```{=latex}
 \newpage
-
+```markdown
 
 # À qui s’adresse ce document
 
