@@ -1,15 +1,3 @@
-# 
-
-# 
-
-# 
-
-# 
-
-# 
-
-# 
-
 # Manifeste  pour la maturité organisationnelle
 
 #### Une approche open source de la gouvernance partagée
