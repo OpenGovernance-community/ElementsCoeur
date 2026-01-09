@@ -26,6 +26,10 @@ Autour du manifeste, OpenGovernance se déploie comme une **constellation de res
 
 Ces ressources peuvent être utilisées indépendamment, mais prennent tout leur sens lorsqu’elles sont reliées entre elles. Ensemble, elles forment un cadre cohérent, évolutif et réutilisable.
 
+```{=latex}
+\newpage
+
+
 # À qui s’adresse ce document
 
 Ce manifeste s’adresse à celles et ceux qui ressentent la nécessité de gouverner autrement, sans pour autant chercher une solution clé en main ou un modèle universel à appliquer.
