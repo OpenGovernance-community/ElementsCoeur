@@ -26,7 +26,7 @@ Autour du manifeste, OpenGovernance se déploie comme une **constellation de res
 
 Ces ressources peuvent être utilisées indépendamment, mais prennent tout leur sens lorsqu’elles sont reliées entre elles. Ensemble, elles forment un cadre cohérent, évolutif et réutilisable.
 
-<div style="page-break-after: always;"></div>
+\newpage
 
 # À qui s’adresse ce document
 
