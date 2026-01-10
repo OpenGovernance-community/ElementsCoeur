@@ -1,0 +1,40 @@
+name: Build Dev PDF (Release)
+
+on:
+  push:
+    branches: ["main"]
+    paths:
+      - "Manifeste_OpenGovernance.md"
+      - "styles/**"
+      - "assets/**"
+      - ".github/workflows/release-dev-pdf.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build-pdf:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Build PDF (Pandoc)
+        uses: docker://pandoc/latex:latest
+        with:
+          args: >
+            Manifeste_OpenGovernance.md
+            --pdf-engine=xelatex
+            --toc
+            -V lang=fr
+            -o Manifeste_OpenGovernance.pdf
+
+      - name: Create or update "dev" release
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: dev
+          name: Development version
+          prerelease: true
+          files: Manifeste_OpenGovernance.pdf
