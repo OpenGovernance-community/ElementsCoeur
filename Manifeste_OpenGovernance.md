@@ -3,7 +3,7 @@ title: "OpenGovernance"
 subtitle: "Manifeste pour la maturité organisationnelle"
 date: ""
 ---
-
+![Schéma des rôles](assets/images/test.svg)
 \newpage
 # Une approche open source de la gouvernance partagée
 
