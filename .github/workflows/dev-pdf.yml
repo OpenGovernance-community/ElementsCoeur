@@ -31,7 +31,7 @@ jobs:
         with:
           args: >
             Manifeste_OpenGovernance.md
-            --pdf-engine=pdflatex
+            --pdf-engine=xelatex
             --toc
             -V lang=fr
             -o OpenGovernance.pdf
