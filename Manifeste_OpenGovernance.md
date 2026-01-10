@@ -1,10 +1,11 @@
 ---
-title: "Manifeste pour la maturité organisationnelle"
-subtitle: "Une approche open source de la gouvernance partagée"
+title: "OpenGovernance"
+subtitle: "Manifeste pour la maturité organisationnelle"
 date: ""
 ---
 
 \newpage
+# Une approche open source de la gouvernance partagée
 
 **OpenGovernance** est une approche de la gouvernance partagée dont l’objectif est de rendre les pratiques de structuration collective **claires, compréhensibles et réellement transmissibles**. Elle s’adresse à des équipes, des organisations et des professionnel·les qui cherchent à mieux coopérer, sans adopter un modèle clé en main ni dépendre d’une méthode propriétaire.
 
@@ -173,7 +174,9 @@ Le respect reconnaît la dignité de chaque personne et l’attention portée au
 Dans OpenGovernance, le respect s’exprime par l’écoute, la parole juste, la reconnaissance des limites et la considération des impacts humains, sociaux et environnementaux des décisions. Il n’exclut ni le désaccord ni la confrontation, mais refuse la domination et la violence.
 
 Cultiver le respect, c’est créer un espace où chacun peut contribuer en sécurité et avec intégrité, au sein d’un collectif attentif à son environnement.
-/newpage
+
+\newpage
+
 # Les 10 principes d’une gouvernance mature
 
 Mettre en place une gouvernance mature, c’est s’engager dans un chemin d’évolution plutôt que d’adopter un modèle clé en main. Cette approche ne repose pas sur l’application mécanique de règles préétablies, mais sur une démarche progressive vers un mode de fonctionnement à la fois efficace, humaniste et vivant.
