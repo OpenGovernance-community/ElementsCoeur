@@ -1,6 +1,7 @@
 ---
 title: "Manifeste pour la maturité organisationnelle"
 subtitle: "Une approche open source de la gouvernance partagée"
+date: ""
 ---
 
 **OpenGovernance** est une approche de la gouvernance partagée dont l’objectif est de rendre les pratiques de structuration collective **claires, compréhensibles et réellement transmissibles**. Elle s’adresse à des équipes, des organisations et des professionnel·les qui cherchent à mieux coopérer, sans adopter un modèle clé en main ni dépendre d’une méthode propriétaire.
