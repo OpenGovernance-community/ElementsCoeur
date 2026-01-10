@@ -42,7 +42,7 @@ The manifesto is intentionally **evolving** and open to contribution.
 A continuously updated, readable PDF version of the manifesto is available here:
 
 👉 **Download the latest development version (PDF)**  
-👉 https://github.com/<org>/<repo>/releases/download/dev/OpenGovernance.pdf
+👉 https://github.com/DavidDrayer/OpenGovernance.community/releases/download/dev/OpenGovernance.pdf
 
 This PDF is automatically regenerated whenever the source document changes.
 
