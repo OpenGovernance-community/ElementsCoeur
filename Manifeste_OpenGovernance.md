@@ -3,7 +3,7 @@ title: "Manifeste pour la maturité organisationnelle"
 subtitle: "Une approche open source de la gouvernance partagée"
 date: ""
 ---
-
+/newpage
 **OpenGovernance** est une approche de la gouvernance partagée dont l’objectif est de rendre les pratiques de structuration collective **claires, compréhensibles et réellement transmissibles**. Elle s’adresse à des équipes, des organisations et des professionnel·les qui cherchent à mieux coopérer, sans adopter un modèle clé en main ni dépendre d’une méthode propriétaire.
 
 Plutôt que de proposer une nouvelle école de gouvernance, OpenGovernance se concentre sur ce qui relie les différentes approches existantes : le sens des mécanismes de gouvernance, leur utilité réelle et les conditions dans lesquelles ils soutiennent — ou freinent — l’autonomie et la responsabilité.
@@ -27,7 +27,7 @@ Le manifeste n’a volontairement pas vocation à expliquer comment faire. Il ne
 Autour du manifeste, OpenGovernance se déploie comme une **constellation de ressources open source**, chacune ayant une fonction spécifique. Les fascicules thématiques traduisent progressivement les principes du manifeste en pratiques concrètes, en abordant des sujets comme les rôles, les cercles, la structuration ou la transformation des organisations. Les supports de formation et d’accompagnement permettent de transmettre ces pratiques de manière structurée, tandis que les fiches pratiques, processus et contenus pédagogiques (textes, vidéos, wiki) soutiennent l’expérimentation au quotidien.
 
 Ces ressources peuvent être utilisées indépendamment, mais prennent tout leur sens lorsqu’elles sont reliées entre elles. Ensemble, elles forment un cadre cohérent, évolutif et réutilisable.
-
+/newpage
 # À qui s’adresse ce document
 
 Ce manifeste s’adresse à celles et ceux qui ressentent la nécessité de gouverner autrement, sans pour autant chercher une solution clé en main ou un modèle universel à appliquer.
@@ -45,7 +45,7 @@ Ce manifeste s’adresse enfin à des organisations prêtes à se poser des ques
 
 OpenGovernance n’est pas un label à afficher, ni un modèle à revendiquer.  
 C’est un chemin à explorer, à expérimenter et à cultiver, pour celles et ceux qui choisissent de gouverner avec le vivant plutôt que contre lui.
-
+/newpage
 # Introduction 
 
 Open Governance est née d’un pari conscient :  
@@ -78,7 +78,7 @@ On ne prétend pas être OpenGovernance.
 On choisit d’y travailler.
 
 Parce que gouverner autrement, c’est avant tout créer les conditions dans lesquelles des organisations peuvent devenir plus responsables, plus conscientes… et profondément humaines.
-
+/newpage
 # Les valeurs 
 
 Avant toute méthode, tout processus ou tout rôle, la gouvernance que nous souhaitons voir exister repose sur un humus commun qu’il est souhaitable de voir partagé par tous les membres de l’organisation: des valeurs qui orientent notre manière d’être ensemble et donnent leur sens à nos actions.
@@ -115,7 +115,7 @@ Le pragmatisme nous invite à partir des situations concrètes plutôt que d’i
 
 **Nous honorons la dignité de chaque être et de chaque forme de vie.**  
 Le respect englobe l’écoute, la parole juste, la reconnaissance des limites, ainsi que l’attention portée au tissu social et à l’environnement naturel. Il est la condition de toute coopération durable.
-
+/newpage
 ## **Confiance**
 
 La confiance est le socle de la gouvernance partagée. Elle permet de distribuer le pouvoir, d’oser l’initiative et de mobiliser l’intelligence collective sans recourir au contrôle permanent.
@@ -163,7 +163,7 @@ Le respect reconnaît la dignité de chaque personne et l’attention portée au
 Dans OpenGovernance, le respect s’exprime par l’écoute, la parole juste, la reconnaissance des limites et la considération des impacts humains, sociaux et environnementaux des décisions. Il n’exclut ni le désaccord ni la confrontation, mais refuse la domination et la violence.
 
 Cultiver le respect, c’est créer un espace où chacun peut contribuer en sécurité et avec intégrité, au sein d’un collectif attentif à son environnement.
-
+/newpage
 # Les 10 principes d’une gouvernance mature
 
 Mettre en place une gouvernance mature, c’est s’engager dans un chemin d’évolution plutôt que d’adopter un modèle clé en main. Cette approche ne repose pas sur l’application mécanique de règles préétablies, mais sur une démarche progressive vers un mode de fonctionnement à la fois efficace, humaniste et vivant.
