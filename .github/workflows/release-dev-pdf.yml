@@ -29,6 +29,7 @@ jobs:
             --pdf-engine=xelatex
             --toc
             -V lang=fr
+            -V date="$(date '+%d %B %Y')"
             -o Manifeste_OpenGovernance.pdf
 
       - name: Create or update "dev" release
