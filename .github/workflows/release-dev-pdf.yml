@@ -14,7 +14,6 @@ permissions:
   contents: write
 
 jobs:
-
   build-pdf:
     runs-on: ubuntu-latest
 
@@ -36,6 +35,16 @@ jobs:
             -V date=${{ env.BUILD_DATE }}
             -V geometry:top=2.5cm,bottom=2.5cm,left=2.3cm,right=2.3cm
             -o Manifeste_OpenGovernance.pdf
+
+      - name: Install PDF merge tool (pdfunite)
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y poppler-utils
+
+      - name: Add cover PDF
+        run: |
+          pdfunite assets/pdf/manifeste_premiere.pdf Manifeste_OpenGovernance.pdf Manifeste_OpenGovernance_with_cover.pdf
+          mv Manifeste_OpenGovernance_with_cover.pdf Manifeste_OpenGovernance.pdf
 
       - name: Create or update "dev" release
         uses: softprops/action-gh-release@v2
