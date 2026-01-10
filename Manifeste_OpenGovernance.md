@@ -936,3 +936,5 @@ C’est un chemin que l’on choisit de travailler, individuellement et collecti
 [^2]:  Voir le fascicule [“Prise de décisions”](#heading=h.3nok9q8v2uy5)
 
 [^3]:  Voir le fascicule [“Communication et transparence”](#heading=h.k69drih6fcux)
+
+[^4]: Voir le fascicule ["Réunions efficaces"](#3-réunions-efficaces)
