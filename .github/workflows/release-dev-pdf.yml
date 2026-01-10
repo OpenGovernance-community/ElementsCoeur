@@ -34,6 +34,7 @@ jobs:
             --toc
             -V lang=fr
             -V date=${{ env.BUILD_DATE }}
+            -V geometry:top=2.5cm,bottom=2.5cm,left=2.3cm,right=2.3cm
             -o Manifeste_OpenGovernance.pdf
 
       - name: Create or update "dev" release
