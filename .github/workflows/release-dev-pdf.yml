@@ -23,7 +23,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Set build date
-        run: echo "BUILD_DATE=$(date +'%Y-%m-%d')" >> $GITHUB_ENV
+        run: echo "BUILD_DATE=$(date +'%d.%m.%Y')" >> $GITHUB_ENV
 
       - name: Build PDF (Pandoc)
         uses: docker://pandoc/latex:latest
