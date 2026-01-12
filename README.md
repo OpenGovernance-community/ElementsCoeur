@@ -1,81 +1,94 @@
 # OpenGovernance
 
-**OpenGovernance** is an open-source initiative exploring how organizations can govern themselves in more conscious, responsible, and human ways.
+**OpenGovernance** est une initiative open source qui explore comment les organisations peuvent se gouverner de manière plus consciente, responsable et humaine.
 
-Rather than proposing a ready-made method or a proprietary framework, OpenGovernance provides a **shared reference of principles, values, and structural insights** that help teams and organizations design governance systems adapted to their context.
+Plutôt que de proposer une méthode clé en main ou un cadre propriétaire, OpenGovernance met à disposition une **référence partagée de principes, de valeurs et d’enseignements structurels** permettant aux équipes et aux organisations de concevoir des systèmes de gouvernance adaptés à leur contexte.
 
-This repository is the home of the **OpenGovernance Manifesto**, a living document that evolves through discussion, feedback, and collective contribution.
-
----
-
-## What is OpenGovernance?
-
-OpenGovernance focuses on what connects existing approaches to shared governance (sociocracy, holacracy, distributed leadership, living systems, etc.), rather than promoting a new “school” or brand.
-
-It explores:
-- governance as a **living system**, not a fixed structure
-- the **sovereignty and responsibility** of individuals within a clear collective framework
-- the **distribution of power** according to roles and competence
-- **tensions and disagreements** as drivers of learning and evolution
-- transparency and trust as structural conditions, not moral ideals
-
-A distinctive choice of the project is to open not only tools and templates, but also the **pedagogical content itself**: the reasoning, principles, and conceptual foundations behind governance practices.
+Ce dépôt est le lieu de développement du **Manifeste OpenGovernance** — un document vivant, appelé à évoluer grâce à la discussion, aux retours et aux contributions collectives.
 
 ---
 
-## The Manifesto
+## Qu’est-ce qu’OpenGovernance ?
 
-The **OpenGovernance Manifesto** is the foundation of the project.
+OpenGovernance s’intéresse à ce qui relie les différentes approches existantes de la gouvernance partagée (sociocratie, holacratie, leadership distribué, systèmes vivants, etc.), plutôt qu’à la création d’une nouvelle « école » ou d’une marque.
 
-It does not describe tools, processes, or step-by-step instructions.  
-Its purpose is to:
-- articulate a shared vision and posture toward governance
-- clarify values and principles
-- provide a common reference for all other OpenGovernance resources
+Le projet explore notamment :
+- la gouvernance comme **système vivant**, et non comme une structure figée
+- la **souveraineté et la responsabilité** des individus dans un cadre collectif explicite
+- la **distribution du pouvoir** en fonction des rôles et des compétences
+- les **tensions et désaccords** comme moteurs d’apprentissage et d’évolution
+- la transparence et la confiance comme **conditions structurelles**, et non comme des idéaux moraux
 
-The manifesto is intentionally **evolving** and open to contribution.
+Un choix distinctif du projet est d’ouvrir non seulement des outils ou des modèles, mais aussi le **contenu pédagogique lui-même** : le raisonnement, les principes et les fondations conceptuelles qui sous-tendent les pratiques de gouvernance.
 
 ---
 
-## 📄 Development PDF version
+## Le Manifeste
 
-A continuously updated, readable PDF version of the manifesto is available here:
+Le **Manifeste OpenGovernance** constitue le socle du projet.
 
-👉 **Download the latest development version (PDF)**  
+Il ne décrit pas d’outils, de processus opérationnels ou de recettes pas à pas.  
+Son objectif est de :
+- formuler une vision et une posture communes vis-à-vis de la gouvernance
+- expliciter des valeurs et des principes
+- fournir une référence partagée pour l’ensemble des ressources OpenGovernance
+
+Le manifeste est **intentionnellement évolutif** et ouvert à contribution.
+
+---
+
+## 📄 Version PDF (en cours de développement)
+
+Une version PDF lisible et continuellement mise à jour du manifeste est disponible ici :
+
+👉 **Télécharger la dernière version de travail (PDF)**  
 👉 https://github.com/DavidDrayer/OpenGovernance.community/releases/download/dev/Manifeste_OpenGovernance.pdf
 
-This PDF is automatically regenerated whenever the source document changes.
+Ce PDF est automatiquement régénéré à chaque modification du document source.
 
 ---
 
-## Repository structure
+## Structure du dépôt
 
-- `GOVERNANCE.md` — the source Markdown of the manifesto (authoritative version)
-- `assets/` — images and diagrams used in the document
-- `.github/workflows/` — automation (PDF generation, releases)
-- future folders will host thematic booklets, tools, and pedagogical resources
-
----
-
-## Contributing
-
-OpenGovernance is a collective work.
-
-You are welcome to:
-- suggest clarifications or improvements
-- open issues to discuss concepts or wording
-- propose edits via pull requests
-
-Contributions are expected to be **thoughtful, grounded, and respectful of the project’s intent**: this is not about enforcing a model, but about improving a shared reference.
-
-Please read the manifesto before contributing.
+- `GOVERNANCE.md` — source Markdown du manifeste (version faisant autorité)
+- `assets/` — images et schémas utilisés dans le document
+- `.github/workflows/` — automatisations (génération du PDF, releases)
+- de futurs dossiers pourront accueillir des livrets thématiques, des outils et des ressources pédagogiques
 
 ---
 
-## License
+## Versions et publications
 
-The content of this repository is shared under a **Creative Commons Attribution-ShareAlike (CC BY-SA)** license, unless stated otherwise.
+- La branche `main` contient la **version de référence en cours** du manifeste.
+- Les **publications officielles** (en général annuelles) sont réalisées via des **Releases GitHub**, chacune associée à un **tag** pointant vers un état précis du document.
+- Les versions publiées restent **figées et archivées**, même lorsque le contenu continue d’évoluer sur `main`.
 
-This means you are free to reuse, adapt, and redistribute the content, as long as you credit the source and share derivative work under the same license.
+---
+
+## Contribuer
+
+OpenGovernance est un travail collectif.
+
+Vous pouvez :
+- proposer des clarifications ou améliorations
+- ouvrir des issues pour discuter de concepts, de formulations ou d’intentions
+- soumettre des modifications via des **Pull Requests** (y compris depuis un fork)
+
+Les contributions sont attendues comme étant **réfléchies, argumentées et respectueuses de l’intention du projet**.  
+Il ne s’agit pas d’imposer un modèle, mais d’améliorer une référence commune.
+
+Merci de lire le manifeste avant de contribuer.
+
+Les règles de contribution et de gouvernance du dépôt sont documentées dans les fichiers dédiés (`CONTRIBUTING.md`, `CODEOWNERS`, etc.).
+
+---
+
+## Licence
+
+Le contenu de ce dépôt est partagé sous licence **Creative Commons Attribution – Partage dans les mêmes conditions (CC BY-SA)**, sauf indication contraire.
+
+Cela signifie que vous êtes libre de réutiliser, adapter et redistribuer le contenu, à condition de :
+- citer la source
+- partager les œuvres dérivées sous la même licence
 
 
