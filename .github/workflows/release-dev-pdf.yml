@@ -42,7 +42,7 @@ jobs:
 
       - name: Add cover PDF
         run: |
-          pdfunite assets/pdf/manifeste_premiere.pdf Manifeste_OpenGovernance.pdf Manifeste_OpenGovernance_with_cover.pdf
+          pdfunite assets/pdf/manifeste_premiere.pdf Manifeste_OpenGovernance.pdf assets/pdf/manifeste_quatrieme.pdf Manifeste_OpenGovernance_with_cover.pdf
           mv Manifeste_OpenGovernance_with_cover.pdf Manifeste_OpenGovernance.pdf
 
       - name: Create or update "dev" release
