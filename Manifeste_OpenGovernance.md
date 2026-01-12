@@ -918,22 +918,6 @@ L’Élément Humain fournit une lecture fine des besoins et des mécanismes hum
 
 Ainsi, la gouvernance partagée devient un point de rencontre entre lucidité psychologique et conception systémique, au service d’organisations plus conscientes, plus responsables et plus humaines.
 
-# Manifeste  pour la maturité organisationnelle
-
-Le terme *gouvernance partagée* est aujourd’hui largement utilisé, mais rarement défini avec précision.  
-Il recouvre des pratiques diverses, parfois inspirantes, parfois floues, et donne lieu à des interprétations très variables selon les contextes, les cultures et les intentions.
-
-**OpenGovernance est née du besoin de clarifier ce que gouverner ensemble signifie réellement.**  
-Non comme une méthode prête à l’emploi, ni comme un modèle à appliquer, mais comme un référentiel explicite de valeurs et de principes permettant de concevoir des formes de gouvernance à la fois efficaces, humaines et évolutives.
-
-Ce manifeste propose une lecture structurée de la gouvernance partagée :  
-une gouvernance qui reconnaît la souveraineté des individus, s’appuie sur l’intelligence collective, distribue le pouvoir là où se trouvent la compétence et la responsabilité, et considère les tensions comme des moteurs d’apprentissage plutôt que comme des dysfonctionnements à éliminer.
-
-Inspirée par le vivant, la robustesse et les sciences humaines, OpenGovernance assume une vision lucide du réel organisationnel. Elle ne cherche ni l’harmonie permanente, ni l’optimisation à tout prix, mais la capacité des systèmes humains à durer, à s’adapter et à rester profondément responsables.
-
-OpenGovernance n’est pas un label que l’on revendique.  
-C’est un chemin que l’on choisit de travailler, individuellement et collectivement, pour créer des organisations plus conscientes, plus robustes… et plus humaines.
-
 [^1]:  Voir le fascicule [“Holarchie, cercles et rôles”](#heading=h.pm1hpq6jid68)
 
 [^2]:  Voir le fascicule [“Prise de décisions”](#heading=h.3nok9q8v2uy5)
