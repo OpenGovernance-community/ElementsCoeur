@@ -42,7 +42,7 @@ Le manifeste est **intentionnellement évolutif** et ouvert à contribution.
 Une version PDF lisible et continuellement mise à jour du manifeste est disponible ici :
 
 👉 **Télécharger la dernière version de travail (PDF)**  
-👉 https://github.com/DavidDrayer/OpenGovernance.community/releases/download/dev/Manifeste_OpenGovernance.pdf
+👉 https://github.com/OpenGovernance.community/ElementsCoeur/releases/download/dev/Manifeste_OpenGovernance.pdf
 
 Ce PDF est automatiquement régénéré à chaque modification du document source.
 
