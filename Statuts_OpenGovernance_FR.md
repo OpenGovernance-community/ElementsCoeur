@@ -1,26 +1,31 @@
-Statuts
+---
+title: "Statuts"
+subtitle: "de l'associacion OpenGouvernance (France)"
+date: "12.02.2026"
+---
 
-## Association OpenGovernance
+\newpage
 
-# ARTICLE PREMIER – Nom
+
+## ARTICLE PREMIER – Nom
 
 Il est fondé entre les adhérents aux présents statuts une association sans but lucratif régie par la loi du 1er juillet 1901 et le décret du 16 août 1901, ayant pour titre 
 
 **« Association OpenGovernance »**
 
-# ARTICLE 2 – Durée
+## ARTICLE 2 – Durée
 
 La durée de l’association est illimitée. 
 
 L’association disparaîtra le jour où les principes décrits dans le Manifeste OpenGovernance seront suffisamment généralisés et pratiqués dans le champ d’influence de l’association pour justifier la cessation de son activité.
 
-# ARTICLE 3 – Siège social
+## ARTICLE 3 – Siège social
 
 Le siège social est fixé Chez Nicolas Bégel, 29, rue Charles Péguy, 73 000 Chambéry.
 
 Il pourra être transféré par simple décision du Cercle d’Ancrage (CA, article 15).
 
-# ARTICLE 4 – Objet
+## ARTICLE 4 – Objet
 
 Pour contribuer à une société plus humaniste consciente de sa connexion au vivant, nous réunissons les acteurs qui œuvrent à une transformation organisationnelle visant l’efficacité humaniste. Autour d’un document fondateur (le Manifeste[^1]) qui décrit les principes et valeurs d’une gouvernance démocratique soutenant le développement des individus et consciente de sa responsabilité sociale et environnementale, nous soutenons et promouvons toutes les approches qui s’y reconnaissent.
 
@@ -28,7 +33,7 @@ Nous créons des espaces d’échanges, de partages et de soutien, et menons des
 
 Nous le faisons de façon philanthropique, éducative et sociale, et nous promouvons ainsi une culture et des principes, collaboratifs et évolutifs.
 
-# ARTICLE 5 – Activités
+## ARTICLE 5 – Activités
 
 L’association promeut les démarches de gouvernance qui cultivent les valeurs et principes définis dans le Manifeste. Elle rend visible non seulement leur existence et leurs activités, mais également ce qui les lient, leur intention commune. Elle mène des projets susceptibles de renforcer la crédibilité de ces approches et leur impact social.
 
@@ -42,11 +47,11 @@ L’association agit sans aucun but lucratif et avec une gestion désintéressé
 
 Elle invite toute personne, physique et morale, à en devenir bénéficiaire, et si elle le souhaite, à s’y impliquer et à contribuer à son rayonnement. 
 
-# ARTICLE 6 – Bénéficiaires
+## ARTICLE 6 – Bénéficiaires
 
 Les activités de l’association ont vocation à bénéficier à toute personne physique et morale intéressée par des formes de coopération respectant les principes d'efficacité et d'humanisme portés par le Manifeste OpenGovernance, par exemple les acteurs et actrices de l'Économie Sociale et Solidaire agissant pour une transition écologique et sociale. 
 
-# ARTICLE 7 – Membres
+## ARTICLE 7 – Membres
 
 L’association est ouverte à toute personne physique et morale, Chaque personne morale désigne un titulaire et un suppléant, pour la représenter au sein de l’association.
 
@@ -68,7 +73,7 @@ Un Membre “praticien” est un membre : 
 
 Un membre “contributeur” est un membre qui soutient financièrement l’association par le biais de sa cotisation et contribue ponctuellement aux activités et projets en cours.
 
-# ARTICLE 8 – Radiation
+## ARTICLE 8 – Radiation
 
 La qualité de membre se perd par :  
 a) La démission ;  
@@ -76,11 +81,11 @@ b) Le décès ;
 c) le non-paiement de la cotisation annuelle ;  
 c) La radiation prononcée par le Cercle d'Ancrage (CA, article 15), suite à un acte ou comportement portant préjudice à l’association, ou pour un autre motif grave, l'intéressé ayant été invité préalablement à fournir des explications. Le processus détaillé de radiation est précisé dans le règlement intérieur.
 
-# ARTICLE 9 – Affiliation
+## ARTICLE 9 – Affiliation
 
 La présente association peut adhérer à d’autres associations, unions ou regroupements, par autorité du Cercle d'Ancrage (CA, article 15).
 
-# ARTICLE 10 – Ressources
+## ARTICLE 10 – Ressources
 
 Les ressources de l’association proviennent des cotisations des membres adhérents à l’association, des recettes des manifestations organisées par l’association, des ventes ou rétributions de produits, services et prestations fournis par l’association, des dons, prêts, aides, des subventions de l’état,  des  collectivités  locales  et  territoriales, des fondations  et  des  établissements  publics et privés, des produits de placements solidaires et de toute autre ressource autorisée par les lois et règlements en vigueur.
 
