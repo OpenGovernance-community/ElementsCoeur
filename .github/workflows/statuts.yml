@@ -1,0 +1,46 @@
+name: Build Dev PDF (Release)
+
+on:
+  push:
+    branches: ["main"]
+    paths:
+      - "Statuts_OpenGovernance_FR.md"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build-pdf:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set build date
+        run: echo "BUILD_DATE=$(date +'%d.%m.%Y')" >> $GITHUB_ENV
+
+      - name: Build PDF (Pandoc)
+        uses: docker://pandoc/latex:latest
+        with:
+          args: >
+            Statuts_OpenGovernance_FR.md
+            --pdf-engine=xelatex
+            --toc
+            -V lang=fr
+            -V date=${{ env.BUILD_DATE }}
+            -V geometry="a4paper,top=2.5cm,bottom=2.5cm,left=2.3cm,right=2.3cm"
+            -o Statuts_OpenGovernance_FR.pdf
+      - name: Install PDF merge tool (pdfunite)
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y poppler-utils
+
+      - name: Create or update "dev" release
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: dev
+          name: Development version
+          prerelease: true
+          files: Statuts_OpenGovernance_FR.pdf
