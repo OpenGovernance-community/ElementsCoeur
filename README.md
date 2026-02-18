@@ -55,6 +55,8 @@ Ce PDF est automatiquement régénéré à chaque modification du document sourc
 - `.github/workflows/` — automatisations (génération du PDF, releases)
 - de futurs dossiers pourront accueillir des livrets thématiques, des outils et des ressources pédagogiques
 
+- Vous trouverez ici des versions PDF des principaux documents dans leur version actuelle: [Dépôt dernière relaease](https://github.com/OpenGovernance-community/ElementsCoeur/releases/)
+
 ---
 
 ## Versions et publications
