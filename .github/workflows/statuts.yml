@@ -1,4 +1,4 @@
-name: Build Dev PDF (Release)
+name: Build Statuts PDF (Release)
 
 on:
   push:
