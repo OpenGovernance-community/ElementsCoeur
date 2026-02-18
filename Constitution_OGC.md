@@ -1,12 +1,13 @@
 ---
 title: "Constitution"
-subtitle: "de l'associacion OpenGouvernance (France)"
+subtitle: "de l'association OpenGouvernance"
 ---
 
 \newpage
-1. # **Préambule**
 
-   1. ## **Qu'est-ce qu'une Constitution ?** 
+ # Article 1 - **Préambule**
+
+ ## Article 1.1 - **Qu'est-ce qu'une Constitution ?** 
 
 La Constitution regroupe l'ensemble des droits et des devoirs des membres vis-à-vis de l'organisation, ainsi que ceux de l'organisation envers ses membres. Elle définit également les règles et processus qui en découlent. En outre, elle précise comment l'organisation est structurée et se définit, notamment à travers sa vision, sa mission, ses valeurs et sa structure.
 
@@ -14,19 +15,19 @@ Ainsi, tous les membres de l'organisation possèdent des droits et des devoirs �
 
 De la même manière qu'une Constitution nationale fait d'un individu un citoyen, une Constitution d'organisation fait d'une employée une membre à part entière de cette dernière.
 
-2. ## **Que trouve-t-on dans cette Constitution ?**
+## Article 1.2 - **Que trouve-t-on dans cette Constitution ?**
 
 La Constitution se compose principalement de règles dites « structurelles » car elles façonnent l'organisation. Ces règles s'appliquent à toutes les personnes et équipes au sein de la structure, et elles ne sont pas destinées à changer fréquemment.
 
-Ces règles expriment souvent les valeurs, convictions et croyances sur lesquelles l'organisation a été fondée. Elles définissent les mécaniques qui concrétisent [les valeurs et piliers de la Gouvernance partagée](#heading=h.275lfb6z8fxf) tels que définis dans les annexes.
+Ces règles expriment souvent les valeurs, convictions et croyances sur lesquelles l'organisation a été fondée. Elles définissent les mécaniques qui concrétisent la maturité organisationnelle tels que définis dans le Manifeste.
 
-3. ## **La Constitution comme point de référence**
+## Article 1.3 - **La Constitution comme point de référence**
 
 De la même manière qu'un citoyen ou une citoyenne n'a pas besoin de connaître la Constitution de son pays par cœur, il n'est pas nécessaire de mémoriser cette Constitution dans son intégralité. Cependant, lorsque quelqu'un souhaite comprendre le fonctionnement de l'organisation ou y apporter des modifications, la Constitution constitue le point de départ de toute démarche.
 
 Les personnes occupant des rôles structurels, tels que le rôle Mémoire, le rôle Facilitation ou les liens Représentation et Pilotage, sont souvent des ressources précieuses pour aider à naviguer dans ce document.
 
-4. ## **Comment naviguer dans cette Constitution ?**
+## Article 1.4 - **Comment naviguer dans cette Constitution ?**
 
 Cette Constitution est découpée en trois parties :
 
@@ -44,27 +45,27 @@ Il existe plusieurs façons de naviguer dans ce document :
 
   1. #### ***Glossaire***
 
-Le vocabulaire spécifique utilisé dans ce document est défini dans l'Annexe Error: Reference source not found : Glossaire.
+Le vocabulaire spécifique utilisé dans ce document est défini dans l'Annexe : Glossaire.
 
-2. # **Identité de l’organisation**
+# Article 2 - **Identité de l’organisation**
 
-   1. ## **Statuts de l’organisation**
+## Article 2.1 - **Statuts de l’organisation**
 
 Les statuts de l'organisation représentent son identité légale. Les éléments d'identité définis dans cette Constitution ne peuvent entrer en conflit avec eux.
 
-1. ### **Modification des statuts**
+### Article 2.2 - **Modification des statuts**
 
 Comme défini légalement, les statuts de l'organisation peuvent être modifiés par l’organe suprême (conseil d’administration, assemblée générale, assemblée des associés...) et ne font pas partie des domaines d’autorité recouverts par la présente Constitution.
 
-2. ## **Manifeste de l’organisation**
+## Article 2.3 - **Manifeste de l’organisation**
 
 L’intention initiale et la philosophie de l’organisation sont décrites dans un document écrit et maintenu par le rôle Source, appelé Manifeste. Ce document est visible et accessible pour tous les membres de l’organisation.
 
-1. ### **Modification du Manifeste**
+### Article 2.3.1 - **Modification du Manifeste**
 
 Seul le rôle Source peut amener des modifications au Manifeste. Les éléments existants peuvent être clarifiés, précisés, mais en aucun cas supprimés. De nouveaux éléments peuvent être ajoutés par le rôle Source, à condition qu’ils n’entrent pas en contradiction avec les éléments existants.
 
-3. ## **Raison d'être de l'organisation**
+## Article 2.4 - **Raison d'être de l'organisation**
 
 L'organisation définit sa raison d'être, qui est visible et accessible à tous ses membres. Elle comprend au moins deux éléments :
 
@@ -74,11 +75,11 @@ L'organisation définit sa raison d'être, qui est visible et accessible à tous
 
 Cette raison d'être encadre les activités de l'organisation.
 
-1. ### **Modification de la raison d'être**
+### Article 2.4.1 - **Modification de la raison d'être**
 
 La raison d'être est révisée tous les 2 ans. Après consultation de tous les membres, le rôle Source propose une modification au cercle d'ancrage, qui la valide en concordance. La durée planifiée minimale de cette concordance est de 2 heures.
 
-4. ## **Cadre éthique de l'organisation**
+## Article 2.5 - **Cadre éthique de l'organisation**
 
 L'organisation définit ses valeurs, au nombre d'au moins trois, qui spécifient ce qui est éthiquement incontournable et encadrent toutes ses actions, projets et décisions. Chaque valeur est accompagnée d'un principe illustrant comment elle doit être incarnée.
 
