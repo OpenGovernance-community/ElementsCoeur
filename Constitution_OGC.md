@@ -1,3 +1,9 @@
+---
+title: "Constitution"
+subtitle: "de l'associacion OpenGouvernance (France)"
+---
+
+\newpage
 1. # **Préambule**
 
    1. ## **Qu'est-ce qu'une Constitution ?** 
