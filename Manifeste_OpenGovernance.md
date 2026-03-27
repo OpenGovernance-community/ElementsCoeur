@@ -6,88 +6,68 @@ date: ""
 
 \newpage
 
-![Logo OpenGovernance](assets/images/OGC_logo_nom.svg)
-
-# Une approche open source de la gouvernance partagée
-
-**OpenGovernance** est une approche de la gouvernance partagée dont l’objectif est de rendre les pratiques de structuration collective **claires, compréhensibles et réellement transmissibles**. Elle s’adresse à des équipes, des organisations et des professionnel·les qui cherchent à mieux coopérer, sans adopter un modèle clé en main ni dépendre d’une méthode propriétaire.
-
-Plutôt que de proposer une nouvelle école de gouvernance, OpenGovernance se concentre sur ce qui relie les différentes approches existantes : le sens des mécanismes de gouvernance, leur utilité réelle et les conditions dans lesquelles ils soutiennent — ou freinent — l’autonomie et la responsabilité.
-
-#### Une spécificité assumée : l’open source pédagogique
-
-De nombreuses initiatives publient aujourd’hui des outils ou des fiches pratiques en open source. OpenGovernance fait un choix plus exigeant : **ouvrir également le contenu pédagogique lui-même**.
-
-Cela signifie que ne sont pas seulement partagés des canevas ou des formats, mais aussi les principes, les raisonnements et les cheminements qui permettent de comprendre pourquoi et comment ces outils fonctionnent. Cette démarche vise à rendre la gouvernance réellement appropriable, adaptable et transmissible, y compris par d’autres formateur·rices ou accompagnant·es.
-
-L’enjeu n’est pas de diffuser une méthode, mais de renforcer la capacité collective à penser et faire évoluer la gouvernance.
-
-#### Le manifeste : un point d’entrée, pas un mode d’emploi
-
-Le **Manifeste OpenGovernance** constitue le socle du projet. Il pose une vision, une posture et des valeurs communes. Il affirme une manière de regarder la gouvernance, le pouvoir, la responsabilité et la coopération.
-
-Le manifeste n’a volontairement pas vocation à expliquer comment faire. Il ne décrit ni outils, ni processus détaillés. Son rôle est de **poser un cadre de sens**, partagé par l’ensemble des ressources qui composent OpenGovernance. Il sert de référence transversale, à laquelle les autres documents se rattachent sans chercher à le remplacer.
-
-#### Une constellation de ressources complémentaires
-
-Autour du manifeste, OpenGovernance se déploie comme une **constellation de ressources open source**, chacune ayant une fonction spécifique. Les fascicules thématiques traduisent progressivement les principes du manifeste en pratiques concrètes, en abordant des sujets comme les rôles, les cercles, la structuration ou la transformation des organisations. Les supports de formation et d’accompagnement permettent de transmettre ces pratiques de manière structurée, tandis que les fiches pratiques, processus et contenus pédagogiques (textes, vidéos, wiki) soutiennent l’expérimentation au quotidien.
-
-Ces ressources peuvent être utilisées indépendamment, mais prennent tout leur sens lorsqu’elles sont reliées entre elles. Ensemble, elles forment un cadre cohérent, évolutif et réutilisable.
-
-\newpage
-
-# À qui s’adresse ce document
-
-Ce manifeste s’adresse à celles et ceux qui ressentent la nécessité de gouverner autrement, sans pour autant chercher une solution clé en main ou un modèle universel à appliquer.
-
-Il est destiné :
-
-* aux dirigeants, managers et responsables d’organisations qui souhaitent sortir des logiques de contrôle et de hiérarchie implicite, sans renoncer à la clarté, à la responsabilité ni à l’efficacité ;  
-* aux collectifs, équipes et organisations déjà engagés dans des démarches de gouvernance partagée, et qui cherchent à clarifier, structurer ou approfondir leurs pratiques ;  
-* aux praticiens de l’accompagnement, de la transformation organisationnelle ou du leadership, désireux de s’appuyer sur un référentiel explicite et cohérent ;  
-* à toute personne intéressée par les liens entre gouvernance, systèmes vivants, maturité humaine et responsabilité collective.
-
-Ce document ne s’adresse pas à celles et ceux qui cherchent une méthode rapide, un outil miracle ou une recette universelle. Il ne promet ni harmonie permanente, ni absence de tensions, ni réussite garantie. OpenGovernance ne simplifie pas la complexité du réel : elle propose de la traverser avec plus de conscience et de responsabilité.
-
-Ce manifeste s’adresse enfin à des organisations prêtes à se poser des questions exigeantes : sur le pouvoir, la responsabilité, la confiance, les conflits et la maturité humaine. Il suppose une volonté de travail dans la durée, d’apprentissage collectif et de remise en question régulière des cadres existants.
-
-OpenGovernance n’est pas un label à afficher, ni un modèle à revendiquer.  
-C’est un chemin à explorer, à expérimenter et à cultiver, pour celles et ceux qui choisissent de gouverner avec le vivant plutôt que contre lui.
-
-\newpage
-
 # Introduction 
 
-Open Governance est née d’un pari conscient :  
-celui que les êtres humains, placés dans un cadre clair, sécurisant et exigeant, sont capables de responsabilité, de coopération et de décisions au service d’un sens plus grand qu’eux.
+Open Governance est née d’un constat simple :  
+le champ de la gouvernance partagée est riche, vivant… et fragmenté.
 
-Dans un monde d’organisations toujours plus complexes, les modèles fondés sur le contrôle montrent leurs limites. Ils produisent de la conformité, rarement de l’engagement, et fragilisent les systèmes qu’ils cherchent à maîtriser.
+Depuis plusieurs années, de nombreuses approches ont émergé, chacune proposant ses cadres, ses outils et ses pratiques. Certaines s’inspirent de modèles existants, comme l’holacratie, en les adaptant, les enrichissant ou les simplifiant. D’autres développent leurs propres visions. Toutes contribuent, à leur manière, à faire évoluer la façon dont les organisations se structurent et coopèrent.
 
-Open Governance propose autre chose.  
-Non pas une méthode clé en main, ni un modèle universel à appliquer, mais un référentiel ouvert de valeurs et de principes pour concevoir des gouvernances vivantes, adaptées à chaque contexte.
+Mais cette diversité a aussi un effet secondaire :  
+elle tend à disperser les repères, à accentuer les différences, et parfois à enfermer les acteurs dans des logiques d’approche ou d’école.
 
-Elle s’inscrit dans le champ de la gouvernance partagée, tout en cherchant à en clarifier les fondements, souvent laissés implicites ou interprétés de manière disparate. Open Governance ne prescrit pas une forme unique d’organisation ; elle offre un cadre de lecture et de conception permettant de gouverner ensemble avec plus de cohérence, de lisibilité et de responsabilité.
+Open Governance ne cherche pas à ajouter une méthode de plus à cet écosystème.  
+Elle ne propose ni outils, ni processus, ni modèle à appliquer.
 
-Elle reconnaît la souveraineté de chaque individu, tout en s’appuyant sur l’intelligence émergente du collectif.  
-Elle place la raison d’être au centre, et distribue le pouvoir là où se trouvent la compétence et la responsabilité.
+Elle propose autre chose.
 
-Dans Open Governance, les règles ne figent pas le système : elles évoluent avec lui.  
-Les tensions ne sont pas évitées : elles deviennent des moteurs d’apprentissage, et lorsque ce seuil est dépassé, le cadre prévoit leur régulation plutôt que leur déni.  
-La transparence remplace le contrôle, et la confiance devient une pratique outillée.
+Open Governance est un **manifeste**.  
+Un espace commun.  
+Une tentative de clarification et de mise en cohérence.
 
-OpenGovernance ne garantit ni la réussite, ni l’harmonie. Elle propose un cadre pour traverser le réel avec plus de conscience et de responsabilité.
+Son ambition est de **rassembler** les acteurs de la gouvernance partagée — quelles que soient leurs approches, leurs pratiques ou leurs cadres de référence — autour d’un socle partagé de valeurs, de principes et d’intentions.
 
-Open Governance est open source par nature.  
-Ses principes sont stables.  
-Ses pratiques sont ouvertes, documentées, discutées et adaptées.
+Il ne s’agit pas d’unifier les pratiques, ni d’effacer les différences.  
+Il s’agit de rendre visible ce qui relie.
 
-Personne ne « possède » OpenGovernance.  
-Chacun peut s’en inspirer, la décliner, la transformer.
+Ce manifeste ne dit pas *comment faire*.  
+Il ne sélectionne pas d’outils, ne prescrit pas de processus, ne privilégie aucune méthode.
 
-On ne prétend pas être OpenGovernance.  
-On choisit d’y travailler.
+Il propose une **définition suffisamment claire et ouverte** de ce qu’est la gouvernance partagée pour que différentes approches puissent :
 
-Parce que gouverner autrement, c’est avant tout créer les conditions dans lesquelles des organisations peuvent devenir plus responsables, plus conscientes… et profondément humaines.
+- s’y reconnaître,  
+- s’y relier,  
+- ou choisir de s’en distinguer en conscience.
+
+Open Governance ne remplace pas les méthodes existantes.  
+Elle leur offre un **cadre de sens commun**, sans leur demander d’abandonner leur identité, leur pédagogie ou leur singularité.
+
+Elle agit comme une bannière sous laquelle des pratiques diverses peuvent coexister, dialoguer et gagner en cohérence d’ensemble.
+
+Cette démarche s’inscrit dans une logique **open source**.  
+Non pas uniquement au sens de la mise à disposition de ressources, mais comme une posture : celle de rendre les contenus accessibles, réutilisables, transformables et appropriables par d’autres.
+
+Le manifeste constitue ce socle commun.  
+Autour de lui, des ressources — fascicules, outils, supports pédagogiques — pourront être produites, enrichies et partagées de manière ouverte, afin de soutenir la diffusion et l’évolution des pratiques.
+
+Ce manifeste s’adresse d’abord à celles et ceux qui œuvrent déjà dans ce champ :  
+praticiens, accompagnants, concepteurs de méthodes, organisations engagées.
+
+Il leur propose un point d’appui pour dépasser les logiques de différenciation et contribuer ensemble à un impact plus large.
+
+Il s’adresse aussi à toute personne — dirigeant, membre d’une organisation, acteur associatif — qui cherche à comprendre ce que recouvre réellement la gouvernance partagée :
+
+- non pas à travers une méthode particulière,  
+- mais à travers les **valeurs, les principes et la finalité** qui la sous-tendent.
+
+À partir de là, chacun reste libre d’aller explorer les approches pratiques qui lui correspondent.
+
+Car les pratiques existent — et elles sont nombreuses.  
+Mais elles ne sont pas l’objet de ce document.
+
+Ce que propose Open Governance, c’est un point de convergence.  
+Un langage commun.  
+Un socle pour penser, relier et faire évoluer la gouvernance partagée dans toute sa diversité.
 
 \newpage
 
