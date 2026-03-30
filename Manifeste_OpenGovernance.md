@@ -185,8 +185,8 @@ Les dix principes qui suivent ne constituent pas un cadre rigide ni une hiérarc
    Ils sont régulièrement observés, évalués et ajustés à partir de l’expérience réelle du terrain.  
    L’organisation développe une capacité explicite d’apprentissage collectif : la structure apprend autant que les personnes.
 
-7. **La différenciation sans domination**  
-   Chaque rôle, chaque voix a une fonction spécifique. La différence est une richesse à intégrer, pas une menace à neutraliser.
+7. **Différencier les rôles, pas les personnes**  
+   La gouvernance reconnaît des rôles différenciés sans créer de hiérarchie de valeur, en rendant le pouvoir explicite et non dominant.
 
 8. **Les tensions comme moteur d’amélioration continue**  
    Les désaccords, frustrations ou besoins émergents ne sont pas des problèmes à éviter, mais des informations précieuses sur le fonctionnement du système.  
@@ -195,8 +195,8 @@ Les dix principes qui suivent ne constituent pas un cadre rigide ni une hiérarc
 9. **La présence et la conscience dans l’action**  
    Les décisions sont prises depuis un état de conscience élargi — écoute, centrage, qualité de présence. La gouvernance devient une pratique de maturité individuelle.
 
-10. **L’unité vivante du système**  
-    L’organisation est un organisme vivant, interconnecté avec son environnement. Sa santé dépend de l’équilibre entre autonomie des parties et cohérence du tout.
+10. **Prendre soin de son écosystème**  
+    Une organisation mature reconnaît son interdépendance avec le monde qui l’entoure. Elle ne cherche pas seulement à fonctionner efficacement, mais à nourrir des relations justes et à contribuer positivement à son environnement.
 
 ## 1\. La souveraineté de chaque individu
 
@@ -516,7 +516,7 @@ Dans OpenGovernance, gouverner, ce n’est pas figer des règles :
 
 Ainsi, l’organisation cesse d’être une machine à optimiser et devient un organisme à accompagner — capable d’apprendre, de s’adapter et de s’améliorer continuellement, avec celles et ceux qui la font vivre.
 
-## **7\. La différenciation sans domination**
+## **7. Différencier les rôles, pas les personnes**
 
 Une gouvernance mature reconnaît une réalité fondamentale : toute organisation vivante est traversée par des différences. Différences de rôles, de responsabilités, de compétences, de sensibilités et de points de vue. Chercher à les effacer au nom d’une égalité abstraite conduit le plus souvent à des systèmes appauvris, ou à l’émergence de hiérarchies informelles et opaques, bien plus difficiles à réguler que des structures explicites.
 
@@ -636,41 +636,55 @@ La présence et la conscience dans l’action donnent à la gouvernance partagé
 
 En cultivant cette qualité de présence, OpenGovernance fait de la gouvernance autre chose qu’un ensemble de règles : elle en fait un espace d’apprentissage, où l’efficacité opérationnelle et la croissance humaine se renforcent mutuellement, au service d’une organisation plus juste, plus lucide et plus vivante.
 
-## **10\. L’unité vivante du système**
+## **10\. Prendre soin de son écosystème**
 
-Une organisation en gouvernance partagée ne se réduit ni à une structure interne, ni à la somme de ses rôles et de ses processus. Elle constitue un système vivant, composé de parties autonomes et interdépendantes, inscrit dans un environnement plus large dont il dépend autant qu’il l’influence. L’unité du système ne se limite donc pas à la cohérence interne : elle inclut la qualité des relations que l’organisation entretient avec son écosystème social, économique et environnemental.
+Une organisation en gouvernance partagée ne se réduit ni à une structure interne, ni à la somme de ses rôles et de ses processus. Elle constitue un système vivant, composé de parties autonomes et interdépendantes, inscrit dans un environnement plus large dont elle dépend autant qu’il l’influence.
+
+Prendre soin de son écosystème implique donc de ne pas se limiter à la cohérence interne. Il s’agit aussi de porter attention à la qualité des relations que l’organisation entretient avec son environnement social, économique et écologique.
 
 OpenGovernance repose sur cette compréhension élargie du vivant. Gouverner, ce n’est pas seulement organiser l’interne, mais prendre soin des relations qui relient l’organisation à ce qui la fait exister.
 
 ### **Une unité fondée sur l’interdépendance**
 
-L’unité vivante du système naît de l’interdépendance entre ses parties. Les rôles, cercles et individus disposent d’une autonomie réelle, mais cette autonomie n’a de sens que parce qu’elle s’inscrit dans un ensemble cohérent, orienté par une raison d’être partagée. Chaque action locale contribue, directement ou indirectement, à l’état global du système.
+L’unité du système naît de l’interdépendance entre ses parties. Les rôles, cercles et individus disposent d’une autonomie réelle, mais cette autonomie n’a de sens que parce qu’elle s’inscrit dans un ensemble cohérent, orienté par une raison d’être partagée. Chaque action locale contribue, directement ou indirectement, à l’état global du système.
 
-Cette logique s’étend naturellement au-delà des frontières de l’organisation. Clients, partenaires, fournisseurs, bénéficiaires, territoires et institutions font partie intégrante du système. Leur exclusion du champ de la gouvernance crée une illusion d’autonomie qui fragilise l’organisation à moyen terme. Reconnaître l’interdépendance, c’est accepter que la santé du système dépend de la qualité de ces relations.
+Cette interdépendance dépasse les frontières de l’organisation. Clients, partenaires, fournisseurs, bénéficiaires, territoires et institutions font pleinement partie de son écosystème. Les exclure du champ de la gouvernance crée une illusion d’autonomie qui fragilise l’organisation à moyen terme.
+
+Reconnaître cette interdépendance, c’est accepter que la santé du système dépend de la qualité de ces relations.
 
 ### **Autonomie interne et équilibre avec les parties prenantes**
 
-Dans une gouvernance mature, l’autonomie interne ne s’exerce pas au détriment des parties prenantes. Elle s’équilibre avec une attention constante aux impacts sociaux, économiques et relationnels des décisions prises. L’organisation ne cherche pas à maximiser son intérêt immédiat, mais à maintenir un équilibre dynamique avec les acteurs dont elle dépend et qu’elle affecte.
+Dans une gouvernance mature, l’autonomie interne ne s’exerce pas au détriment des parties prenantes. Elle s’équilibre avec une attention constante aux impacts sociaux, économiques et relationnels des décisions prises.
 
-Cet équilibre ne se décrète pas : il se cultive par le dialogue, la transparence et la responsabilité partagée. Les tensions avec l’environnement — attentes contradictoires, contraintes économiques, enjeux sociaux ou écologiques — sont abordées avec la même posture que les tensions internes : comme des signaux à intégrer plutôt que comme des obstacles à contourner.
+L’organisation ne cherche pas à maximiser son intérêt immédiat, mais à maintenir un équilibre dynamique avec les acteurs dont elle dépend et qu’elle affecte.
+
+Cet équilibre ne se décrète pas : il se cultive par le dialogue, la transparence et la responsabilité partagée. Les tensions avec l’environnement — attentes contradictoires, contraintes économiques, enjeux sociaux ou écologiques — sont abordées comme des informations utiles à intégrer, plutôt que comme des obstacles à contourner.
 
 ### **Une gouvernance cohérente à l’intérieur comme à l’extérieur**
 
-Les valeurs qui fondent OpenGovernance — confiance, coopération, responsabilité, respect et pragmatisme — ne s’arrêtent pas aux frontières de l’organisation. Elles orientent également la manière de travailler avec l’environnement. La gouvernance partagée perd sa cohérence si elle reproduit à l’extérieur des logiques de domination, d’opacité ou de prédation qu’elle cherche précisément à dépasser en interne.
+Les valeurs qui fondent OpenGovernance — confiance, coopération, responsabilité, respect et pragmatisme — ne s’arrêtent pas aux frontières de l’organisation. Elles orientent également la manière de travailler avec l’environnement.
 
-Cultiver une unité vivante du système implique d’aligner les pratiques internes et externes : transparence dans les relations, clarté des engagements, respect des équilibres, et reconnaissance de l’interdépendance. Cette cohérence renforce la crédibilité de l’organisation et la solidité de ses partenariats.
+La gouvernance partagée perd sa cohérence si elle reproduit à l’extérieur des logiques de domination, d’opacité ou de prédation qu’elle cherche précisément à dépasser en interne.
 
-### **Une organisation en relation avec son environnement social et économique**
+Prendre soin de son écosystème implique d’aligner les pratiques internes et externes : transparence dans les relations, clarté des engagements, respect des équilibres et reconnaissance de l’interdépendance. Cette cohérence renforce la crédibilité de l’organisation et la solidité de ses partenariats.
 
-Aucune organisation n’est autosuffisante. Elle dépend de ressources, de compétences, de cadres légaux, de dynamiques économiques et de tissus sociaux qui la dépassent. OpenGovernance invite à rendre ces dépendances explicites plutôt qu’à les nier. En les reconnaissant, l’organisation peut agir avec plus de lucidité et de responsabilité.
+### **Une organisation en relation avec son environnement**
 
-Cette conscience systémique encourage des choix plus soutenables, une attention aux effets à long terme et une capacité accrue à coopérer plutôt qu’à entrer dans des logiques de compétition destructrice. L’organisation devient alors un acteur conscient de son environnement, capable de contribuer positivement à l’écosystème dont elle fait partie.
+Aucune organisation n’est autosuffisante. Elle dépend de ressources, de compétences, de cadres légaux, de dynamiques économiques et de tissus sociaux qui la dépassent.
 
-### **Conclusion : une unité qui relie et dépasse l’organisation**
+OpenGovernance invite à rendre ces dépendances explicites plutôt qu’à les nier. En les reconnaissant, l’organisation peut agir avec plus de lucidité et de responsabilité.
 
-L’unité vivante du système ne consiste pas à fermer l’organisation sur elle-même, mais à la relier. Elle émerge lorsque l’autonomie interne, la cohérence collective et l’attention à l’environnement s’articulent dans un même mouvement. Gouverner, dans OpenGovernance, c’est maintenir cet équilibre délicat entre le dedans et le dehors, entre l’efficacité interne et la responsabilité élargie.
+Cette conscience systémique encourage des choix plus soutenables, une attention aux effets à long terme et une capacité accrue à coopérer plutôt qu’à entrer dans des logiques de compétition destructrice.
 
-Dans cette perspective, l’organisation cesse d’être une entité isolée pour devenir un nœud conscient d’un réseau vivant. C’est dans cette capacité à relier, plutôt qu’à dominer ou à s’extraire, que se joue la durabilité humaine, sociale et économique de la gouvernance partagée.
+L’organisation devient alors un acteur conscient de son environnement, capable non seulement de limiter ses impacts négatifs, mais aussi de contribuer positivement à l’écosystème dont elle fait partie.
+
+### **Conclusion : une organisation qui prend soin du vivant**
+
+Prendre soin de son écosystème consiste à relier l’organisation à ce qui la rend possible. L’unité ne se construit pas en se refermant sur elle-même, mais en cultivant des relations justes avec son environnement.
+
+Gouverner, dans OpenGovernance, c’est maintenir cet équilibre entre le dedans et le dehors, entre l’efficacité interne et la responsabilité élargie.
+
+Dans cette perspective, l’organisation cesse d’être une entité isolée pour devenir un nœud conscient d’un réseau vivant. C’est dans cette capacité à prendre soin — plutôt qu’à exploiter ou à s’extraire — que se joue la durabilité humaine, sociale et économique de la gouvernance partagée.
 
 # La boîte à outils
 
