@@ -11,7 +11,7 @@ date: "12.02.2026"
 
 Il est fondé entre les adhérents aux présents statuts une association sans but lucratif régie par la loi du 1er juillet 1901 et le décret du 16 août 1901, ayant pour titre 
 
-**« Association OpenGovernance »**
+**« Association OpenGouvernance »**
 
 ## ARTICLE 2 – Durée
 
